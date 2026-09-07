@@ -1,6 +1,6 @@
 # Hi, I'm Yusuf Efe Saglam 👋
 
-✈️ Software developer with a passion for aviation. I build tools that make flight data easier to read — like [**metar-bot**](https://github.com/yuefsaedu/metar-bot), a Telegram bot that decodes METAR weather reports into plain language and serves runway/chart info for ~80 airports.
+Software developer focused on **aviation tooling, backend development and open source** — comfortable across the stack, from systems programming to web interfaces.
 
 ## 🧰 Languages & Tech
 
@@ -24,15 +24,12 @@ I work across both mainstream and niche corners of the stack:
 | Scripting & data | SQL · Bash · PowerShell |
 | Practices | Git · testing with pytest · deployment on Render |
 
-## 🚀 Projects
+## 🎯 Focus areas
 
-- **[metar-bot](https://github.com/yuefsaedu/metar-bot)** — Telegram bot that fetches METAR reports by ICAO code and decodes them (wind, visibility, clouds, QNH, trends) with runway/ILS data and chart links. Python · python-telegram-bot · Flask · Render.
-
-## ✈️ Beyond the code
-
-- Aviation: METAR/TAF parsing, airport & airline data, flight tracking
-- Open source: working on first upstream contributions to aviation and Python projects
-- Always up for a challenge in a new language — the niche-er, the better
+- ✈️ Aviation & flight data — METAR/TAF parsing, airport & airline data, flight tracking
+- ⚙️ Backend & tooling — Python and Rust
+- 🖥️ Web & UI — React and TypeScript
+- 🌱 Open source — working on first upstream contributions
 
 ## 📫 Connect
 
